@@ -11,7 +11,11 @@ To get started, clone this repository and run the following commands:
 ```bash
 npm install
 ```
+
 This will install the necessary dependencies for the project.
+
+Install the Live Server extension
+To run Live Server, right click the index.html file and click "Open with Live Server"
 
 ## Development
 
